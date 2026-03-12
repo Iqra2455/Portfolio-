@@ -1,2 +1,2 @@
 # Portfolio-
-This project is part of my web development course assignment.
+This is the Basic HTML based Portfolio Landing Page.
